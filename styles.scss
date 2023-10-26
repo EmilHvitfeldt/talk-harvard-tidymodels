@@ -1,0 +1,155 @@
+/*-- scss:defaults --*/
+
+$theme-black: #373038;
+$theme-white: #FFFFFF;
+$theme-purple: #CBA6FF;
+$theme-green: #88E032;
+$theme-orange: #FB702D;
+$theme-yellow: #FFC341;
+
+$body-bg: $theme-black;
+$body-color: $theme-white;
+
+$link-color: $theme-yellow;
+$link-color-hover: $theme-orange;
+
+$selection-bg: lighten($theme-orange, 15%);
+
+$presentation-font-size-root: 40px;
+
+$code-color: $theme-orange;
+
+@font-face {
+    font-family: 'FiraCode';
+    src: url('../../../../../FiraCode-Regular.woff2') format('woff2'),
+         url('../../../../../FiraCode-Regular.woff') format('woff');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap');
+
+$font-family-sans-serif: "Happy Monkey";
+$font-family-monospace: 'FiraCode';
+
+$presentation-heading-color: darken($theme-white, 20%);
+
+/*-- scss:rules --*/
+
+.reveal pre code {
+  max-height: unset;
+}
+
+.reveal a {
+  text-decoration: underline;
+  text-decoration-color: darken($theme-yellow, 25%);
+}
+
+.reveal h2 {
+  text-shadow: 2px 2px 4px $theme-purple;
+}
+
+.green {
+  color: $theme-green;
+}
+
+.orange {
+  color: $theme-orange;
+}
+
+.yellow {
+  color: $theme-yellow;
+}
+
+.purple {
+  color: $theme-purple;
+}
+
+code span.fu {
+  color: $theme-yellow;
+}
+
+code span.sc {
+  color: $theme-green;
+}
+
+code span.st {
+  color: $theme-orange;
+}
+
+code span.ot {
+  color: $theme-purple;
+}
+
+code span.cn {
+  color: $theme-purple;
+}
+
+
+code span.at {
+  color: #f8f8f2;
+}
+
+code span.fl {
+  color: #f8f8f2;
+}
+
+code span.dv {
+  color: #f8f8f2;
+}
+
+.title {
+  text-align: center;
+  width: 65%;
+  height: 250px;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+   user-select: none;
+}
+
+.title b {
+  font: 400 10vh "Vibur";
+  color: #fee;
+      text-shadow: 0 -40px 100px, 0 0 2px, 0 0 1em $theme-orange, 0 0 0.5em $theme-orange, 0 0 0.1em $theme-orange, 0 10px 3px #000;
+}
+.title b span{
+  animation: blink linear infinite 2s;
+}
+.title b span:nth-of-type(2){
+  animation: blink linear infinite 3s;
+}
+@keyframes blink {
+  78% {
+    color: inherit;
+    text-shadow: inherit;
+  }
+  79%{
+     color: #333;
+  }
+  80% {
+
+    text-shadow: none;
+  }
+  81% {
+    color: inherit;
+    text-shadow: inherit;
+  }
+  82% {
+    color: #333;
+    text-shadow: none;
+  }
+  83% {
+    color: inherit;
+    text-shadow: inherit;
+  }
+  92% {
+    color: #333;
+    text-shadow: none;
+  }
+  92.5% {
+    color: inherit;
+    text-shadow: inherit;
+  }
+}

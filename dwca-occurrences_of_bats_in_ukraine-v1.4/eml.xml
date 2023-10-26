@@ -1,0 +1,345 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="af0a7284-a634-4082-8c14-ab1f7030775b/v1.4" system="http://gbif.org" scope="system"
+         xml:lang="eng">
+
+<dataset>
+  <alternateIdentifier>af0a7284-a634-4082-8c14-ab1f7030775b</alternateIdentifier>
+  <alternateIdentifier>https://ukraine.ipt.gbif.no/resource?r=occurrences_of_bats_in_ukraine</alternateIdentifier>
+  <title xml:lang="eng">The dataset of bat (Chiroptera, Mammalia) occurrences in Ukraine collected by the Ukrainian Bat Rehabilitation Center (2011-2022)</title>
+      <creator>
+    <individualName>
+        <givenName>Alona</givenName>
+      <surName>Prylutska</surName>
+    </individualName>
+    <organizationName>Ukrainian Bat Rehabilitation Center, Ukrainian Independent Ecology Institute</organizationName>
+    <positionName>research associate, co-head</positionName>
+    <address>
+        <city>Kharkiv</city>
+        <country>UA</country>
+    </address>
+    <phone>+380965911624</phone>
+    <electronicMailAddress>prylutskaa@gmail.com</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Alona-Prylutska-gukasova</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">4WtoCh4AAAAJ&amp;hl=en</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Maryna</givenName>
+      <surName>Yerofeieva</surName>
+    </individualName>
+    <organizationName>Ukrainian Bat Rehabilitation Center, V.N. Karazin Kharkiv National University</organizationName>
+    <positionName>Research assistant</positionName>
+    <address>
+        <city>Kharkiv</city>
+        <country>UA</country>
+    </address>
+    <electronicMailAddress>yerofieieva3@gmail.com</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Valeria</givenName>
+      <surName>Bohodist</surName>
+    </individualName>
+    <organizationName>Ukrainian Bat Rehabilitation Center, Bila Tserkva National Agrarian University</organizationName>
+    <positionName>Research assistant</positionName>
+    <address>
+        <city>Kharkiv</city>
+        <country>UA</country>
+    </address>
+    <electronicMailAddress>ValeryBog00@gmail.com</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Alona</givenName>
+      <surName>Shulenko</surName>
+    </individualName>
+    <organizationName>Ukrainian Bat Rehabilitation Center</organizationName>
+    <positionName>Research assistant</positionName>
+    <address>
+        <city>Kharkiv</city>
+        <country>UA</country>
+    </address>
+    <electronicMailAddress>shulenko2015@gmail.com</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Angelika</givenName>
+      <surName>But</surName>
+    </individualName>
+    <organizationName>Ukrainian Bat Rehabilitation Center, H.S. Skovoroda Kharkiv National Pedagogical University</organizationName>
+    <positionName>Research assistant</positionName>
+    <address>
+        <city>Kharkiv</city>
+        <country>UA</country>
+    </address>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Ksenia</givenName>
+      <surName>Kravchenko</surName>
+    </individualName>
+    <organizationName>University of Lausanne, Department of Ecology and Evolution</organizationName>
+    <positionName>Posdoctoral researcher</positionName>
+    <address>
+        <city>Lausanne</city>
+        <country>CH</country>
+    </address>
+    <electronicMailAddress>kseniia.a.kravchenko@gmail.com</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Kseniia-Kravchenko</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">en&amp;user=8VyiuzIAAAAJ</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Oleh</givenName>
+      <surName>Prylutskyi</surName>
+    </individualName>
+    <organizationName>V.N. Karazin Kharkiv National University</organizationName>
+    <positionName>Associate professor</positionName>
+    <address>
+        <city>Kharkiv</city>
+        <country>UA</country>
+    </address>
+    <electronicMailAddress>oleh.prylutskyi@gmail.com</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Oleh-Prylutskyi</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">en&amp;user=R5Wi5DAAAAAJ</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Anton</givenName>
+      <surName>Vlaschenko</surName>
+    </individualName>
+    <organizationName>Ukrainian Bat Rehabilitation Center, Ukrainian Independent Ecology Institute</organizationName>
+    <positionName>research associate, co-head</positionName>
+    <address>
+        <deliveryPoint>Plekhanov st., 40</deliveryPoint>
+        <city>Kharkiv</city>
+        <postalCode>61001</postalCode>
+        <country>UA</country>
+    </address>
+    <electronicMailAddress>anton.vlaschenko@gmail.com</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Anton-Vlaschenko</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">en&amp;user=u8PpM5sAAAAJ</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Alona</givenName>
+      <surName>Prylutska</surName>
+    </individualName>
+    <organizationName>Ukrainian Bat Rehabilitation Center</organizationName>
+    <positionName>research associate, co-head</positionName>
+    <address>
+        <city>Kharkiv</city>
+        <country>UA</country>
+    </address>
+    <phone>+380965911624</phone>
+    <electronicMailAddress>prylutskaa@gmail.com</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Alona-Prylutska-gukasova</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">4WtoCh4AAAAJ&amp;hl=en</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Anton</givenName>
+      <surName>Vlaschenko</surName>
+    </individualName>
+    <organizationName>Ukrainian Bat Rehabilitation Center</organizationName>
+    <positionName>research associate, co-head</positionName>
+    <address>
+        <city>Kharkiv</city>
+        <country>UA</country>
+    </address>
+    <phone>+380678031533</phone>
+    <electronicMailAddress>anton.vlaschenko@gmail.com</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Anton-Vlaschenko</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">en&amp;user=u8PpM5sAAAAJ</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Alona</givenName>
+      <surName>Prylutska</surName>
+    </individualName>
+    <electronicMailAddress>prylutskaa@gmail.com</electronicMailAddress>
+    <role>user</role>
+      </associatedParty>
+  <pubDate>
+      2022-12-22
+  </pubDate>
+  <language>eng</language>
+  <abstract>
+    <para>The members of the UBRC team carefully collected all information about bat records made by ordinary people, that were possible to identify by obtained photo and video material. Such observations are marked in the database as human observation records. Also, all bats that were rescued by UBRC team members and/or transported to the UBRC facilities were carefully examined using different parameters and measurements. These records are marked as occurrence records. 
+This dataset provides information of 20950 individual bat records of 16 species collected from all over Ukraine in 2011-2022. Less  than 10% of the records were already published, and all the other records are presented in this dataset for the first time.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Chiroptera</keyword>
+            <keyword>urban-landscapes</keyword>
+            <keyword>occurrence</keyword>
+            <keyword>Ukraine.</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Observation</keyword>
+            <keyword>Chiroptera</keyword>
+            <keyword>urban-landscapes</keyword>
+            <keyword>occurrence</keyword>
+            <keyword>Ukraine.</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Ukraine, all the territory</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>22.236</westBoundingCoordinate>
+          <eastBoundingCoordinate>39.99</eastBoundingCoordinate>
+          <northBoundingCoordinate>52.483</northBoundingCoordinate>
+          <southBoundingCoordinate>44.402</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2011</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2022</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Taxonomic coverage of the dataset consists of the Mammals from the order Chiroptera. All except one recorded bat belong to the family Vespertilionidae, one individual belongs to the family Molossidae (see Prylutska et al. 2020).  In total, 12 species and 1 subspecies were recorded by direct records, 11 species from Vespertilionidae belonging to 7 genera. By correspondence records, 13 species from the family Vespertilionidae were recorded belonging to 8 genera. 
+For most of the bat species presented in the database, there were no nomenclatural changes or developments for the last 10 years, and their taxonomic status is definite (Dietz and Kiefer 2014).  The exception is Pipistrellus kuhlii (Kuhl, 1817), presented in Europe by two taxons well-distinguishable visually - Pipistrellus kuhlii kuhlii (Kuhl, 1817) and Pipistrellus kuhlii lepidus (Blyth, 1845) (Andriollo et al. 2015, Sachanowicz et al. 2017). However, there was not a clear view of the systematic status of these two taxons, do they just morphs or true subspecies (Sachanowicz et al. 2017).  For the whole of the Ukrainian territory only P. k. lepidus was distinguished till now (Sachanowicz et al. 2017, Hukov et al. 2020). However, there was noted species range expansion for P. k. kuhlii from west to east, and it was hypothesized that it would appear in most western regions of Ukraine soon (Sachanowicz et al. 2017). All the bats identified previously (by UBRC specialists) as P. kuhlii  were later reevaluated as P. k. lepidus. Yet we cannot absolutely confirm whether P. kuhlii from the western part of Ukraine ( identified by photos), actually was P. k. lepidus and not a P. k. kuhlii. For this reason, we categorized correspondence records to a higher-level species taxon P. kuhlii, but direct records were marked as P. k. lepidus.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Vespertilionidae</taxonRankValue>
+                  <commonName>Microbats</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Molossidae</taxonRankValue>
+                  <commonName>Free-tailed bats</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Alona</givenName>
+      <surName>Prylutska</surName>
+    </individualName>
+    <organizationName>Ukrainian Bat Rehabilitation Center</organizationName>
+    <positionName>research associate, co-head</positionName>
+    <address>
+        <city>Kharkiv</city>
+        <country>UA</country>
+    </address>
+    <phone>+380965911624</phone>
+    <electronicMailAddress>prylutskaa@gmail.com</electronicMailAddress>
+    <onlineUrl>https://www.researchgate.net/profile/Alona-Prylutska-gukasova</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">4WtoCh4AAAAJ&amp;hl=en</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>For bats transferred to the UBRC (Occurrence): Identification of bat species, sex and age, measuring body mass and forearm length, ringing the bats with bat rings. Completing google sheets with all bat details and measurements, date and place of the record.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>For bats found in other cities (Human observation): Identification of bat species by photos or videos. 
+Completing google sheets with all details about bat (species, sex), date and place of the record.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Aggregating occurrence records and human observation records.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Manual georeferencing of records based on descriptions of the localities using Google Maps;</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Data post-processing using Darwin Core terms (Wieczorek et al. 2012);</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Data cleaning using OpenRefine (OpenRefine 2022).</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>The direct records for the period of 2013-2021, and correspondence records for the 2011-2022 were collected from all the territory across Ukraine.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>The records of bats for this dataset were done by ordinary people or by specialists of UBRS during bat rescue operations in human settlements. Most of the records represent accidental findings of bats (on the ground or inside the flats/offices). Another smaller part of the records describes the bat hibernation colonies found in buildings during the renovation or window replacement works (Hukov et al. 2020, Kravchenko et al. 2017). The information about bat findings was transferred by citizens to the UBRC  through the phone helpline and social media messengers. The UBRC facilities are based in Kharkiv city (NE Ukraine), and all found bats were transported to the UBRC’s office for detailed examination and recording. When a bat was not delivered to the UBRC’s office, its species and sex (if possible) were determined from a picture taken for record (see Prylutska and Vlaschenko 2013). For the current dataset we summarized two types of records: (i) direct (or factual) records consisting of bats that were delivered to the UBRC’s office and examined by specialists (“occurrences” in basiOfRecord term in the dataset); (ii) correspondence records, bats that were identified by picture(s) (“human observations” in basiOfRecord term). 
+During the warm period of the year bats were released back to the wild. In the cold period of the year bats were staying  at the UBRC facilities till spring (under suitable for hibernation conditions). Individuals with signs of injuries were examined by a veterinarian and received proper treatment. Bats that were not capable of flying after the treatment, were left at the UBRC for life-long care and rehabilitation. Additionally, protocols for bat care, ringing and releasing to nature have been already published (Domanska et al. 2017, Vlaschenko et al. 2020). 
+Bat species were identified by UBRC workers and specialists using illustrated keys (Dietz and Helversen 2004, Dietz and Kiefer 2014). The methods for identification of bat age, sex and measurements has been already published in detail by members of the UBRC (Hukov et al. 2020, Kravchenko et al. 2017, Prylutska et al. 2021). Specifically, we use three age categories: for the description of bat age (i) juvenile - recently born not flying individuals, (ii) this-year-born individuals (subadult) - usually from the age of 1 till 10-11 months and (iii) adult individuals (Kravchenko et al. 2017). Females of bats with protuberant nipples (1 mm or more in diameter) and milk-white, abraded canine teeth were ranked as adults. Females with flat and pink nipples and pinkish, sharp canine teeth were ranked as first-year individuals (Kravchenko et al. 2017, Prylutska et al. 2021). Males with milky-white and worn canine teeth, big testes (from 7 × 4 mm or more), and distended, filled epididymis were ranked as adults. Males with pinkish and sharp canine teeth, small testes, and small, undescended epididymis were ranked as first year individuals (Kravchenko et al. 2017, Prylutska et al. 2021). 
+Location of each found bat were recorded as exact address (oblast, city, address) and later was geocoded manually, using Google Maps service. For each record coordinate uncertainty is mentioned (in meters). Records for which only settlements were known, georeferenced as geometric centroid of the polygon of the settlement, with coordinate precision calculated as radius of the polygon. We identified it as the radius for each settlement using the official administrative boundary shapefile (https://data.humdata.org/dataset/cod-ab-ukr?), calculation of the square for each settlement and centroids in the QGIS software (QGIS Development Team, 2009. QGIS Geographic Information System. Open Source Geospatial Foundation. URL http://qgis.org).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Bats delivered to the UBRC’s office were examined and measured by bat specialists. The sex, age category, reproductive status, forearm length (accuracy 0.1 mm) and body mass (accuracy 0.1 g) were recorded for each individual. Almost all alive bats were subsequently banded by special bat aluminium rings (coming in 3 sizes ) marked as “Kyiv, Ukraine”, with unique number manufactured by Aranea, Poland (Vlaschenko et al. 2020). The recaptured bats with rings were included in the total sum of bat records. 
+For bat species identification we used the key of Dietz and Helversen (2004), the identification by teeth with the loupe was done using key from Schober and Grimmberger (1998). When species identification was extremely difficult, we recorded only the genus of the bat.
+For corresponding records usually, recorders were asked to provide any required details or additional pictures (of video recording) to enable an exact identification of the species. The final database includes only those cases where the identified bat species or bat genus did not raise any doubts.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project id="N-Eurasia-2022">
+    <title>Northern Eurasia 2022</title>
+      <personnel>
+        <individualName>
+            <givenName>Dmitry</givenName>
+          <surName>Schigel</surName>
+        </individualName>
+              <userId directory="https://orcid.org/">0000-0002-2919-1168</userId>
+        <role>pointOfContact</role>
+      </personnel>
+      <abstract>
+        <para>In collaboration with the Finnish Biodiversity Information Facility (FinBIF) and Pensoft Publishers, GBIF has announced a new call for authors to submit and publish data papers on Northern Eurasia in a special collection of Biodiversity Data Journal (BDJ).</para>
+      </abstract>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-12-04T00:17:31.312+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Prylutska A, Yerofeieva M, Bohodist V, Shulenko A, But A, Kravchenko K, Prylutskyi O, Vlaschenko A (2022): The dataset of bat (Chiroptera, Mammalia) occurrences in Ukraine collected by the Ukrainian Bat Rehabilitation Center (2011-2022). v1.4. Ukrainian Bat Rehabilitation Center. Dataset/Occurrence. https://ukraine.ipt.gbif.no/resource?r=occurrences_of_bats_in_ukraine&amp;v=1.4</citation>
+          <bibliography>
+                <citation identifier="https://doi.org/10.1371/journal.pone.0134881">Andriollo T, Naciri Y, Ruedi M (2015) Two mitochondrial barcodes for one biological species: the case of European Kuhl’s pipistrelles (Chiroptera). PLoS ONE, 10 (8), e0134881.</citation>
+                <citation>Dietz C, Helversen O.von (2004) Illustrated identification key to the bats of Europe. Electronic Publication, Version 1.0. released 15.12.2004, Tuebingen &amp; Erlangen (Germany).</citation>
+                <citation>Dietz C, Kiefer A (2014) The Bats of Europe. Know, Identify, Protect [Die Fledermäuse Europas. Kennen, Bestimmen, Schützen] Kosmos Verlag, Stuttgart, 400 pp. [in German]. [ISBN 978-3-440-11560-2]</citation>
+                <citation>Domanska A, Prylutska A, Vlaschenko A, Holovchenko O, Kovalov V, Orlenko A (2017) Bat treatment experience in Bat Rehabilitation Center of Feldman Ecopark in 2017 year. XXVI Ogólnopolska Konferencja Chiropterologiczna, Wiezyca, Poland 17-19 November 2017. Wiezyca, 44 pp.</citation>
+                <citation identifier="https://doi.org/10.17161/eurojecol.v6i1.13629">Hukov V, Timofieieva O, Prylutska A, Rodenko O, Moiseienko M, Bohodist V, Domanska A, Vlaschenko A (2020) Wintering of an urban bat (Pipistrellus kuhlii lepidus) in recently occupied areas. European Journal of Ecology, 6, 102–120 pp.</citation>
+                <citation identifier=" https://doi.org/10.15468/3dljm6 ">Hukov V, Prylutska A, Timofieieva O, Rodenko O, Moiseienko M, Bohodist V, Domanska A, Kravchenko K, Vlaschenko A (2020). Winter colonies of Kuhl&apos;s bat (Pipistrellus kuhlii subsp. lepidus Blyth, 1845) in Ukraine, 2013-2020. Version 1.5. Ukrainian Bat Rehabilitation Center. Occurrence</citation>
+                <citation identifier="https://doi.org/10.3906/zoo-1602-51 ">Kravchenko K, Vlaschenko A, Prylutska A, Rodenko O, Hukov V, Shuvaev V (2017) Year-round monitoring of bat records in an urban area: Kharkiv (NE Ukraine), 2013, as a case study. Turkish Journal of Zoology, 41 (3), 530–548 pp.</citation>
+                <citation identifier="https://openrefine.org/    ">OpenRefine (2022) OpenRefine: A free, open source, powerful tool for working with messy data. 3.5.2. Release date: 2022-1-26.</citation>
+                <citation>Prylutska A, Vlaschenko A (2013) Material to the bat distribution on the base of results of contact-center in Kharkov (2008-2013). [Материалы по распространению рукокрылых по итогам работы контакт-центра в Харькове (2008-2013 гг.)]. Biological systems, Chernovtsy, 5 (4): 532–537 pp. [in Russian].</citation>
+                <citation identifier="https://doi.org/10.15407/zoo2020.01.053 ">Prylutska A, Moiseienko M, Yerofeieva M, Hukov V, Vlaschenko A (2020) Northern record for Tadarida teniotis (NE Ukraine) far from known species range. Bat Research &amp; Conservation, 13 (1): 104–108 pp.</citation>
+                <citation identifier="https://batsukraine.org/library-ua">Prylutska A, Vlaschenko A, Domanska A, Hukov V  (2021) Guide to the rehabilitation of bats. [Посібник з реабілітації кажанів]. Cyphraprint, Kharkiv, 126 pp. [in Ukrainian]. [ISBN 978-617-7565-60-3]</citation>
+                <citation identifier="http://qgis.org">QGIS Development Team, 2009. QGIS Geographic Information System. Open Source Geospatial Foundation.</citation>
+                <citation>Sachanowicz K, Piskorski M, Tereba A (2017) Systematics and taxonomy of Pipistrellus kuhlii (Kuhl,1817) in Central Europe and the Balkans. Zootaxa, 4306 (1), 053–066 pp.</citation>
+                <citation>Schober W, Grimmberger E (1998) The bats of Europe: Know - Identify - Protect. Kosmos Nature Guide. [Die Fledermäuse Europas: Kennen – Bestimmen – Schützen. Kosmos Naturführer]. Franckh&apos;Sche, Verlagshandlung 2nd ed. and enlarged, 265 pp. [in Germany].</citation>
+                <citation identifier="https://doi.org/10.15407/zoo2020.01.053 ">Vlaschenko A, Prylutska A, Kravchenko K, Rodenko O, Hukov V, Timofieieva O, Holovchenko O, Moiseienko M, Kovalov V (2020) Regional recapture of bats (Chiroptera, Vespertilionidae) ringed in Eastern Ukraine. Zoodiversity, 54(1): 53-66 pp.</citation>
+          </bibliography>
+          <dc:replaces>af0a7284-a634-4082-8c14-ab1f7030775b/v1.4.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>
