@@ -27,7 +27,7 @@ R User Group at the Harvard Data Science Initiative
 
 ## What is tidymodels?
 
-![](images/tidymodels.png)
+![](images/tidymodels.webp)
 
 ## Data
 
